@@ -1,0 +1,147 @@
+22/06/14 15:57:36 : (#AUTH005) Too many bad auth attempts.<EOL>
+22/06/14 15:58:59 : Connect timed out.
+22/06/14 15:59:34 : Connect timed out.
+22/06/14 16:00:01 : Connect timed out.
+22/06/14 16:01:33 : Connect timed out.
+22/06/14 16:01:48 : Connect timed out.
+22/06/14 16:06:13 : Connect timed out.
+22/06/14 16:13:52 : Connect timed out.
+22/06/14 16:14:38 : Connect timed out.
+22/06/14 16:15:07 : Connect timed out.
+22/06/14 16:18:42 : Connect timed out.
+22/06/14 16:24:44 : Connect timed out.
+22/06/14 16:47:49 : Connect timed out.
+22/06/14 16:48:45 : Connect timed out.
+22/06/14 16:50:16 : Connect timed out.
+22/06/14 16:52:19 : Connect timed out.
+22/06/14 16:52:26 : Connect timed out.
+22/06/14 16:54:19 : Connect timed out.
+22/06/14 16:54:47 : Connect timed out.
+22/06/14 16:54:51 : Connect timed out.
+22/06/14 20:12:22 : Connect timed out.
+22/06/14 20:13:02 : Connect timed out.
+22/06/14 20:14:07 : Connect timed out.
+22/06/14 20:16:28 : Connect timed out.
+22/06/14 20:22:02 : Connect timed out.
+22/06/14 20:32:22 : Connect timed out.
+22/06/20 10:07:01 : Message is missing recipient's address
+22/06/20 10:10:04 : Message is missing recipient's address
+22/06/20 10:20:28 : Message is missing recipient's address
+22/06/20 10:21:22 : Message is missing recipient's address
+22/06/20 10:21:24 : Message is missing recipient's address
+22/06/20 10:21:25 : Message is missing recipient's address
+22/06/20 10:21:26 : Message is missing recipient's address
+22/06/20 10:21:27 : Message is missing recipient's address
+22/06/20 10:21:27 : Message is missing recipient's address
+22/06/20 10:21:27 : Message is missing recipient's address
+22/06/20 10:21:28 : Message is missing recipient's address
+22/06/20 10:21:29 : Message is missing recipient's address
+22/06/20 10:21:29 : Message is missing recipient's address
+22/06/20 10:31:00 : Message is missing recipient's address
+22/06/20 10:31:48 : Message is missing recipient's address
+22/06/20 10:32:21 : Message is missing recipient's address
+22/06/20 10:32:26 : Message is missing recipient's address
+22/06/20 10:36:12 : Message is missing recipient's address
+22/06/20 10:36:58 : Message is missing recipient's address
+22/06/20 11:01:08 : Message is missing recipient's address
+22/06/20 11:03:21 : Temporary System Problem.  Try again later (2). k21-20020a4a2a15000000b0035eb4e5a6cdsm7684957oof.35 - gsmtp<EOL>
+22/06/20 11:10:11 : Syntax error. f10-20020a056830204a00b0060bfb4e4033sm7539941otp.9 - gsmtp<EOL>
+22/06/20 11:11:42 : Syntax error. s130-20020acaa988000000b0032603df9d24sm7299097oie.47 - gsmtp<EOL>
+22/06/20 11:13:23 : Syntax error. z22-20020a056870385600b0010200e2828fsm831074oal.30 - gsmtp<EOL>
+22/06/20 11:14:10 : Syntax error. w25-20020a4a7659000000b0035eb4e5a6cesm7818120ooe.36 - gsmtp<EOL>
+22/06/20 11:14:43 : Message is missing recipient's address
+22/06/20 11:14:45 : Message is missing recipient's address
+22/06/20 11:15:31 : Message is missing recipient's address
+22/06/20 11:15:32 : Message is missing recipient's address
+22/06/20 11:15:59 : Message is missing recipient's address
+22/06/20 11:16:13 : Syntax error. g25-20020a4ad859000000b0035eb4e5a6bfsm7814596oov.21 - gsmtp<EOL>
+22/06/20 11:17:18 : Syntax error. n4-20020a056870e40400b000f5ccbb7d75sm7368329oag.1 - gsmtp<EOL>
+22/06/20 11:17:39 : Syntax error. bk37-20020a0568081a2500b003289f51c2d7sm7422757oib.34 - gsmtp<EOL>
+22/06/20 11:17:56 : Syntax error. o206-20020acad7d7000000b0032b7a0c5da1sm7450761oig.27 - gsmtp<EOL>
+22/06/20 11:19:12 : Syntax error. w25-20020a4a7659000000b0035eb4e5a6cesm7826002ooe.36 - gsmtp<EOL>
+22/06/20 11:20:50 : Syntax error. c17-20020a05687093d100b00101a553225csm6263550oal.38 - gsmtp<EOL>
+22/06/20 11:21:40 : Syntax error. c6-20020a4a4f06000000b0041b83a0d994sm7892044oob.34 - gsmtp<EOL>
+22/06/20 11:24:33 : Syntax error. du6-20020a0568703a0600b00101bc3380a5sm5098262oab.12 - gsmtp<EOL>
+22/06/20 11:25:33 : Syntax error. k34-20020a9d19a5000000b0060c05f45c38sm462089otk.48 - gsmtp<EOL>
+22/06/20 11:28:08 : Syntax error. r23-20020a056830419700b0060c03836d04sm7681001otu.77 - gsmtp<EOL>
+22/06/20 11:29:12 : Syntax error. l189-20020aca3ec6000000b003263cf0f282sm7364916oia.26 - gsmtp<EOL>
+22/06/20 11:34:14 : Message is missing recipient's address
+22/06/20 11:34:15 : Message is missing recipient's address
+22/06/20 11:34:55 : Message is missing recipient's address
+22/06/20 11:35:38 : Message is missing recipient's address
+22/06/20 11:46:35 : Message is missing recipient's address
+22/06/20 11:46:36 : Message is missing recipient's address
+22/06/20 11:46:36 : Message is missing recipient's address
+22/06/20 11:46:37 : Message is missing recipient's address
+22/06/20 11:47:51 : Message is missing recipient's address
+22/06/20 11:48:05 : Message is missing recipient's address
+22/06/20 11:48:06 : Message is missing recipient's address
+22/06/20 11:49:10 : Message is missing recipient's address
+22/06/20 11:50:14 : Message is missing recipient's address
+22/06/20 11:53:43 : Syntax error. i3-20020a9d53c3000000b0060c78975ef6sm7580524oth.7 - gsmtp<EOL>
+22/06/20 11:54:08 : Syntax error. n9-20020aca5909000000b00325cda1ffa6sm7473517oib.37 - gsmtp<EOL>
+22/06/20 11:55:32 : Syntax error. z20-20020a9d65d4000000b0060ae954bf27sm7661172oth.62 - gsmtp<EOL>
+22/06/20 11:56:02 : Syntax error. u10-20020a4ab5ca000000b0041ba884d42csm7755596ooo.42 - gsmtp<EOL>
+22/06/20 11:56:56 : Syntax error. bm17-20020a056820189100b0041b5d2f3c92sm7934144oob.24 - gsmtp<EOL>
+22/06/20 11:57:17 : Syntax error. t205-20020acaaad6000000b00328a7641583sm7423656oie.32 - gsmtp<EOL>
+22/06/20 12:01:10 : Message is missing recipient's address
+22/06/20 12:01:35 : Syntax error. j200-20020acaebd1000000b0032e7205619asm7467106oih.15 - gsmtp<EOL>
+22/06/20 12:03:08 : Syntax error. k23-20020a056820017700b0041b57e44d93sm7921482ood.28 - gsmtp<EOL>
+22/06/20 13:53:14 : Message is missing recipient's address
+22/06/20 14:00:24 : Message is missing recipient's address
+22/06/20 14:00:41 : Message is missing recipient's address
+22/06/20 14:04:24 : Message is missing recipient's address
+22/06/20 14:05:15 : Message is missing recipient's address
+22/06/20 14:05:24 : Message is missing recipient's address
+22/06/20 14:06:49 : Message is missing recipient's address
+22/06/20 14:08:19 : Message is missing recipient's address
+22/06/20 14:10:37 : Message is missing recipient's address
+22/06/20 14:18:29 : Message is missing recipient's address
+22/06/20 14:18:48 : Message is missing recipient's address
+22/06/20 14:19:07 : Message is missing recipient's address
+22/06/20 14:19:42 : Message is missing recipient's address
+22/06/20 14:20:17 : Message is missing recipient's address
+22/06/20 14:23:42 : Message is missing recipient's address
+22/06/20 14:24:17 : Message is missing recipient's address
+22/06/20 14:28:02 : Message is missing recipient's address
+22/06/20 14:28:16 : Message is missing recipient's address
+22/06/20 15:22:02 : Message is missing recipient's address
+22/06/20 15:29:08 : Message is missing recipient's address
+22/06/20 15:29:10 : Message is missing recipient's address
+22/06/20 15:29:41 : Message is missing recipient's address
+22/06/20 15:30:53 : The recipient address <[Array]@corpcni.innovix.com.br> is not a valid<EOL>RFC-5321 address. Learn more at<EOL> https://support.google.com/mail/answer/6596 c6-20020a4a4f06000000b0041b83a0d994sm8286999oob.34 - gsmtp<EOL>
+22/06/20 15:44:32 : Message is missing recipient's address
+22/06/20 15:44:47 : Message is missing recipient's address
+22/06/20 15:45:07 : Message is missing recipient's address
+22/06/20 15:45:08 : Message is missing recipient's address
+22/06/20 15:45:08 : Message is missing recipient's address
+22/06/20 15:45:35 : Message is missing recipient's address
+22/06/20 15:45:51 : Message is missing recipient's address
+22/06/20 15:46:21 : Message is missing recipient's address
+22/06/20 15:46:51 : Message is missing recipient's address
+22/06/20 15:47:54 : Message is missing recipient's address
+22/06/20 15:48:22 : Message is missing recipient's address
+22/06/20 15:49:09 : Message is missing recipient's address
+22/06/20 15:58:35 : Message is missing recipient's address
+22/06/20 15:59:08 : Syntax error. x3-20020a9d4583000000b0060c237c6355sm7947499ote.71 - gsmtp<EOL>
+22/06/20 16:01:43 : Message is missing recipient's address
+22/06/20 16:02:25 : Message is missing recipient's address
+22/06/20 16:02:27 : Message is missing recipient's address
+22/06/20 16:04:10 : Message is missing recipient's address
+22/06/20 16:04:16 : Message is missing recipient's address
+22/06/20 16:04:27 : Message is missing recipient's address
+22/06/20 16:06:35 : Message is missing recipient's address
+22/06/20 16:06:49 : Message is missing recipient's address
+22/06/20 16:06:51 : Message is missing recipient's address
+22/06/20 16:07:52 : Message is missing recipient's address
+22/06/20 16:17:49 : Message is missing recipient's address
+22/06/20 16:18:04 : Message is missing recipient's address
+22/06/20 16:18:05 : Message is missing recipient's address
+22/06/20 16:19:10 : Message is missing recipient's address
+22/06/21 09:09:03 : Temporary System Problem.  Try again later (1). eh40-20020a056870f5a800b000e90544b79fsm8946320oab.41 - gsmtp<EOL>
+22/06/21 10:15:05 : Message is missing recipient's address
+22/06/21 10:16:02 : Message is missing recipient's address
+22/06/21 10:17:32 : Message is missing recipient's address
+22/06/21 10:17:49 : Message is missing recipient's address
+22/07/18 13:24:05 : Message is missing recipient's address
+22/07/18 13:24:07 : Message is missing recipient's address
